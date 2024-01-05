@@ -7,7 +7,7 @@
 
 ### 📫 How to reach me:
 - AngelDomLu@gmail.com
-- [Portfolio](sites.google.com/view/angel-dom)
+- [Portfolio](https://sites.google.com/view/angel-dom)
 
 ### ⚡ Fun facts:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-999&layout=compact)](https://github.com/Angel-999)
