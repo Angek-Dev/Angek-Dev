@@ -8,7 +8,7 @@
 
 ### 📫 How to reach me:
 - angeldomlu@gmail.com
-- [Portfolio](angek-dev.vercel.app)
+- [Portfolio](https://angek-dev.vercel.app)
 
 ### ⚡ Fun facts:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-999&layout=compact)](https://github.com/Angel-999)
