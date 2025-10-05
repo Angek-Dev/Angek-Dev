@@ -1,5 +1,4 @@
 ## Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAngek-Dev&count_bg=%233DA6C8&title_bg=%23555555&icon=myspace.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Angek-Dev)
 ### 👔 Work experience:
 - CEO | Three Stars Transport Inc
 - Design Engineer | Freelance
