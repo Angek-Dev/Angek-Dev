@@ -1,14 +1,14 @@
 ## Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAngel-999&count_bg=%233DA6C8&title_bg=%23555555&icon=myspace.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Angel-999)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAngek-Dev&count_bg=%233DA6C8&title_bg=%23555555&icon=myspace.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Angek-Dev)
 ### 👔 Work experience:
-- Independent Game Developer.
-- Independent analyst developer of systems.
-- Dispatcher at Three Stars Transport Inc.
+- CEO | Three Stars Transport Inc
+- Design Engineer | Freelance
+- Front-end Developer | Freelance
 
 
 ### 📫 How to reach me:
-- AngelDomLu@gmail.com
-- [Portfolio](https://sites.google.com/view/angel-dom)
+- angeldomlu@gmail.com
+- [Portfolio](angek-dev.vercel.app)
 
 ### ⚡ Fun facts:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-999&layout=compact)](https://github.com/Angel-999)
